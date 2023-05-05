@@ -17,8 +17,8 @@ This project was built using the following technologies:
 ## 🔗Live Demo
 https://calculator-by-savhar.netlify.app/
 
-## Screenshots
+## 📸Screenshots
 ![Screenshot 2023-05-05 110920](https://user-images.githubusercontent.com/128722563/236384477-ef6c89fb-5e39-4d4b-947c-59245361851a.png)
 
-## Credit
+## ✒️Credit
 Created by-*SAVHAR VERMA*
